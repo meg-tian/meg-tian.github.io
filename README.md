@@ -1,2 +1,2 @@
 # meg-tian.github.io
-this is my repository
+This is my site of blog and I'll share with you the funs in my life
